@@ -1,0 +1,16 @@
+current directory: /home/noman/new_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+/home/noman/.rvm/rubies/ruby-3.0.2/bin/ruby -I /home/noman/.rvm/rubies/ruby-3.0.2/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/noman/new_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220909-21672-89xrai sitelibdir\=./.gem.20220909-21672-89xrai clean
+
+current directory: /home/noman/new_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220909-21672-89xrai sitelibdir\=./.gem.20220909-21672-89xrai
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/noman/new_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220909-21672-89xrai sitelibdir\=./.gem.20220909-21672-89xrai install
+/usr/bin/install -m 0755 debug.so ./.gem.20220909-21672-89xrai/debug
