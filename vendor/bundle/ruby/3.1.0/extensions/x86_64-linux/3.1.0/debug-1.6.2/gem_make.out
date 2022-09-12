@@ -1,5 +1,5 @@
 current directory: /home/noman/new_app/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
-/home/noman/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/noman/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220909-9006-c3sa2x.rb extconf.rb
+/home/noman/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/noman/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220912-5273-wgdkqt.rb extconf.rb
 creating Makefile
 
 current directory: /home/noman/new_app/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
@@ -13,4 +13,4 @@ linking shared-object debug/debug.so
 
 current directory: /home/noman/new_app/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
 make DESTDIR\= install
-/usr/bin/install -m 0755 debug.so ./.gem.20220909-9006-u9as4f/debug
+/usr/bin/install -m 0755 debug.so ./.gem.20220912-5273-48fpb2/debug

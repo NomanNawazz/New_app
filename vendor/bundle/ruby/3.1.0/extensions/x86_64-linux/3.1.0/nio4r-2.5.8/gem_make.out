@@ -1,5 +1,5 @@
 current directory: /home/noman/new_app/vendor/bundle/ruby/3.1.0/gems/nio4r-2.5.8/ext/nio4r
-/home/noman/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/noman/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220909-9006-m87bjj.rb extconf.rb
+/home/noman/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/noman/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220912-5273-rdb38m.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... yes
 checking for linux/io_uring.h... no
@@ -271,4 +271,4 @@ linking shared-object nio4r_ext.so
 
 current directory: /home/noman/new_app/vendor/bundle/ruby/3.1.0/gems/nio4r-2.5.8/ext/nio4r
 make DESTDIR\= install
-/usr/bin/install -m 0755 nio4r_ext.so ./.gem.20220909-9006-lvt779
+/usr/bin/install -m 0755 nio4r_ext.so ./.gem.20220912-5273-5il6bt
